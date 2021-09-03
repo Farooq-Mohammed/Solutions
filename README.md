@@ -1,7 +1,7 @@
 # Solutions
 
 This repository contains solutions to coding problems that helps you to prepare for coding rounds.
-> # Easy
+> # Easy <hr>
 >  - [Anagrams](https://github.com/staykirak/Solutions/blob/main/Easy/Anagrams.java)
 >  - [Count all possible paths](https://github.com/staykirak/Solutions/blob/main/Easy/Count_all_possible_paths.java)
 >  - [Delimiters](https://github.com/staykirak/Solutions/blob/main/Easy/Delimiters.java)
@@ -17,5 +17,5 @@ This repository contains solutions to coding problems that helps you to prepare 
 >  - [Subsequence A-B-C](https://github.com/staykirak/Solutions/blob/main/Easy/Subsequences_A_B_C.java)
 >  - [Substring of One](https://github.com/staykirak/Solutions/blob/main/Easy/Substring_of_one.java)
 
-> # Medium
+> # Medium <hr>
 > - [Sorted square Array](https://github.com/staykirak/Solutions/blob/main/Medium/SortedSquaredArray.java)
