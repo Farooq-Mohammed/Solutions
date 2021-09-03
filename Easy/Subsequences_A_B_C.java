@@ -3,6 +3,12 @@ import java.lang.*;
 import java.io.*;
 
 class Subsequences_A_B_C {
+	
+/*	Given a string, count number of subsequences of the form aibjck, 
+	i.e., it consists of i ’a’ characters, followed by j ’b’ characters, followed by k ’c’ characters 
+	where i >= 1, j >=1 and k >= 1. 
+*/
+	
 	static int function(String str){
 		
 		int[] cnt = new int[3];
