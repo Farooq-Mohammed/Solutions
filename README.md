@@ -17,6 +17,6 @@ This repository contains solutions to coding problems that helps you to prepare 
 >  - [Subsequence A-B-C](https://github.com/staykirak/Solutions/blob/main/Easy/Subsequences_A_B_C.java)
 >  - [Substring of One](https://github.com/staykirak/Solutions/blob/main/Easy/Substring_of_one.java)
 <hr>
-
+ 
 > # Medium
 > - [Sorted square Array](https://github.com/staykirak/Solutions/blob/main/Medium/SortedSquaredArray.java)
