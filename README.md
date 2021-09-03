@@ -1,7 +1,7 @@
 # Solutions
 
 ### This repository contains solutions to coding problems that helps you to prepare for coding rounds.
-> # Easy
+ # Easy
 - [Anagrams](https://github.com/staykirak/Solutions/blob/main/Easy/Anagrams.java)
 - [Count all possible paths](https://github.com/staykirak/Solutions/blob/main/Easy/Count_all_possible_paths.java)
 - [Delimiters](https://github.com/staykirak/Solutions/blob/main/Easy/Delimiters.java)
@@ -19,7 +19,7 @@
 
 <hr>
  
-> # Medium
+ # Medium
 - [Inversion Count](https://github.com/staykirak/Solutions/blob/main/Medium/Inversion.java)
 - [Longest Subarray](https://github.com/staykirak/Solutions/blob/main/Medium/LongestSubarray.java)
 - [Sorted square Array](https://github.com/staykirak/Solutions/blob/main/Medium/SortedSquaredArray.java)
