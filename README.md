@@ -16,8 +16,6 @@
 - [Set Bits](https://github.com/staykirak/Solutions/blob/main/Easy/SetBits.java)
 - [Subsequence A-B-C](https://github.com/staykirak/Solutions/blob/main/Easy/Subsequences_A_B_C.java)
 - [Substring of One](https://github.com/staykirak/Solutions/blob/main/Easy/Substring_of_one.java)
-
-<hr>
  
  # Medium
 - [Inversion Count](https://github.com/staykirak/Solutions/blob/main/Medium/Inversion.java)
