@@ -19,7 +19,7 @@ This repository contains solutions to coding problems that helps you to prepare 
 <hr>
  
 > # Medium
-> - [Inversion Count](https://github.com/staykirak/Solutions/blob/main/Medium/Inversion.java)
-> - [Longest Subarray](https://github.com/staykirak/Solutions/blob/main/Medium/LongestSubarray.java)
-> - [Sorted square Array](https://github.com/staykirak/Solutions/blob/main/Medium/SortedSquaredArray.java)
+- [Inversion Count](https://github.com/staykirak/Solutions/blob/main/Medium/Inversion.java)
+- [Longest Subarray](https://github.com/staykirak/Solutions/blob/main/Medium/LongestSubarray.java)
+- [Sorted square Array](https://github.com/staykirak/Solutions/blob/main/Medium/SortedSquaredArray.java)
 
