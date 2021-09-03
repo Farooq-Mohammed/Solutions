@@ -17,7 +17,7 @@ class Maximum_Product_Pair {
 		int[] ar = new int[n];
 		
 		for(int i=0;i<n;i++)	ar[i] = sc.nextInt();
-		
+		 
 		System.out.println(function(ar, n));
 	}
 }
