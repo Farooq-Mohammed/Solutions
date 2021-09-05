@@ -11,14 +11,16 @@
 - [Maximum Product Pair](https://github.com/staykirak/Solutions/blob/main/Easy/Maximum_Product_Pair.java)
 - [Product Pair](https://github.com/staykirak/Solutions/blob/main/Easy/Product_pair.java)
 - [Replace With Greatest on Right](https://github.com/staykirak/Solutions/blob/main/Easy/Replace_With_Greatest_On_Right.java)
-- [Rotation - Array](https://github.com/staykirak/Solutions/blob/main/Easy/Rotation.java)
+- [Rotate - Array](https://github.com/staykirak/Solutions/blob/main/Easy/Rotate_By_K.java)
 - [Second Smallest](https://github.com/staykirak/Solutions/blob/main/Easy/Second_smallest.java)
 - [Set Bits](https://github.com/staykirak/Solutions/blob/main/Easy/SetBits.java)
 - [Subsequence A-B-C](https://github.com/staykirak/Solutions/blob/main/Easy/Subsequences_A_B_C.java)
 - [Substring of One](https://github.com/staykirak/Solutions/blob/main/Easy/Substring_of_one.java)
  
  # Medium
+- [Common Factors](https://github.com/staykirak/Solutions/blob/main/Medium/CommonFactors.java)
 - [Inversion Count](https://github.com/staykirak/Solutions/blob/main/Medium/Inversion.java)
 - [Longest Subarray](https://github.com/staykirak/Solutions/blob/main/Medium/LongestSubarray.java)
+- [Rotation - Array](https://github.com/staykirak/Solutions/blob/main/Medium/Rotation.java)
 - [Sorted square Array](https://github.com/staykirak/Solutions/blob/main/Medium/SortedSquaredArray.java)
 
