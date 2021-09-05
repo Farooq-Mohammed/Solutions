@@ -4,12 +4,10 @@ import java.io.*;
 
 class Maximum_Product_Pair {
 	static int function(int[] ar, int n){
-		
 		if(n<2)	return 0;
 		
 		Arrays.sort(ar);
 		return Math.max(ar[0]*ar[1], ar[n-1]*ar[n-2]);
-		
 	}
 	
 	public static void main (String[] args) throws java.lang.Exception
@@ -19,7 +17,7 @@ class Maximum_Product_Pair {
 		int[] ar = new int[n];
 		
 		for(int i=0;i<n;i++)	ar[i] = sc.nextInt();
-		
+		 
 		System.out.println(function(ar, n));
 	}
 }
