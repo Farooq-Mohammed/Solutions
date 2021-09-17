@@ -22,5 +22,6 @@
 - [Inversion Count](https://github.com/staykirak/Solutions/blob/main/Medium/Inversion.java)
 - [Longest Subarray](https://github.com/staykirak/Solutions/blob/main/Medium/LongestSubarray.java)
 - [Rotation - Array](https://github.com/staykirak/Solutions/blob/main/Medium/Rotation.java)
+- [Rotation - Array (2)](https://github.com/staykirak/Solutions/blob/main/Medium/Rotation_2.java)
 - [Sorted square Array](https://github.com/staykirak/Solutions/blob/main/Medium/SortedSquaredArray.java)
 
