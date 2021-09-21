@@ -24,4 +24,5 @@
 - [Rotation - Array](https://github.com/staykirak/Solutions/blob/main/Medium/Rotation.java)
 - [Rotation - Array (2)](https://github.com/staykirak/Solutions/blob/main/Medium/Rotation_2.java)
 - [Sorted square Array](https://github.com/staykirak/Solutions/blob/main/Medium/SortedSquaredArray.java)
+- [Subsets](https://github.com/staykirak/Solutions/blob/main/Medium/SubSets.java)
 
