@@ -1,12 +1,13 @@
 class SubSets {
-
+/*
+Generate all subsets of given array (exclude null set)
+*/
     static void generateSubset(int n, int[] ar, int idx, ArrayList<Integer> arr) {
 	
         if (idx == n) {
 	    // Excluding null set
-            if (arr.size() != 0) {
-                System.out.println(arr.toString());
-            }
+            if (arr.size() != 0)    System.out.println(arr.toString());
+		
             return;
         }
 
@@ -23,12 +24,9 @@ class SubSets {
 
         int n = 5;
         int[] ar = {81, 36, 9, 6, 1};
-
         ArrayList<Integer> arr = new ArrayList<>(); // to store temp subset elements
 
         generateSubset(n, ar, 0, arr);
-
+	    
     }
-
-
 }
